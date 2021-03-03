@@ -1,6 +1,17 @@
 # Sourcery CHANGELOG
 
 ---
+## Master
+
+### New Features
+- Configuration file now supports multiple configurations at once
+
+### Internal Changes
+
+### Bug fixes
+
+
+---
 ## 1.3.0
 ## Internal changes
 - Sourcery is now using SwiftSyntax not SourceKit
